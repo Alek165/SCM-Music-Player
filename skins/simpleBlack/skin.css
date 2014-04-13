@@ -1,12 +1,12 @@
 #player,#player a{ color:#333; }
-#player{ background:url(sizerAndVol.png); background-position: bottom !important; background-repeat: repeat-x !important; }
-#player .mainImage{ background:url(main.png); }
+#player{ background:url(http://imgur.com/GkVEJxY); background-position: bottom !important; background-repeat: repeat-x !important; }
+#player .mainImage{ background:url(http://imgur.com/OVpr416); }
 
 #player #baseLeft{ width:188px; }
 #player #baseRight{ width:145px;}
 #player .button{  width:22px; }
 #player #pause{ left:32px; }
-#player #play{ background:url(playBtn.png);left:31px; }
+#player #play{ background:url(http://imgur.com/IktCySa);left:31px; }
 #player #previous{ left:8px; }
 #player #next{ left:55px; }
 #player #title{ left:90px;}
@@ -20,7 +20,7 @@
 #player #seekerSliderBase{ background-color:#666; }
 
 #player #volume{ width:70px; right:33px; }
-#player #volumeSlider{ width:14px; background:url(sizerAndVol.png); }
+#player #volumeSlider{ width:14px; background:url(http://imgur.com/GkVEJxY); }
 
 #playlist,#playlist .module,#playlist h3{ border-color:#333;}
 #playlist .module{  color:#333; background-color:white; }
